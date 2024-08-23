@@ -97,7 +97,7 @@ API Endpoints
   - `PUT /api/librarians/{id}/` - Update a specific librarian
   - `DELETE /api/librarians/{id}/` - Delete a specific librarian
 
-## Testing
+Testing
 
 To ensure the API works as expected, unit tests have been implemented. You can run the tests with:
 
@@ -105,29 +105,29 @@ To ensure the API works as expected, unit tests have been implemented. You can r
 python manage.py test
 ```
 
-## Test Results
+Test Results
 
 Testing was performed using Django’s inbuilt test framework. The results of the tests are as follows:
 
-- **Authors**: All CRUD operations tested successfully.
-- **Books**: All CRUD operations tested successfully.
-- **Members**: All CRUD operations tested successfully.
-- **Loans**: All CRUD operations tested successfully.
-- **Librarians**: All CRUD operations tested successfully.
+- Authors: All CRUD operations tested successfully.
+- Books: All CRUD operations tested successfully.
+- Members: All CRUD operations tested successfully.
+- Loans: All CRUD operations tested successfully.
+- Librarians: All CRUD operations tested successfully.
 
 *Screenshots and detailed test logs are included in the `testing_evidence` folder.*
 
-## Contributing
+Contributing
 
 Feel free to fork the repository and submit pull requests for improvements or bug fixes. Please ensure that any changes made are well-documented and tested.
 
-## License
+ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Authors
+Authors
 
-- **Your Name** - *Initial work* - [YourGitHubProfile](https://github.com/yourusername)
+- Godwill Kiplagat - *Initial work* - [YourGitHubProfile](https://github.com/godwill98)
 
 ---
 
