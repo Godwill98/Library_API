@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Authors
 
-- Godwill Kiplagat - *Initial work* - [YourGitHubProfile](https://github.com/godwill98)
+- Godwill Kiplagat - *Initial work* - [Godwill Kiplagat](https://github.com/godwill98)
 
 ---
 
